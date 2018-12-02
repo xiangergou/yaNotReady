@@ -1,0 +1,25 @@
+{
+  "name": "yanotready",
+  "version": "1.0.0",
+  "description": "may a plug-in for chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangergou/yaNotReady.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiangergou/yaNotReady/issues"
+  },
+  "homepage": "https://github.com/xiangergou/yaNotReady#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "koa": "^2.6.2",
+    "koa-router": "^7.4.0",
+    "superagent": "^4.0.0"
+  }
+}
